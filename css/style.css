@@ -111,7 +111,7 @@ nav {
 /* Divino 1 */
 .divino-1 {
   padding: 300px 0 700px;
-  background: url(/assets/bg/bg-1.webp) center/cover no-repeat;
+  background: url(assets/bg/bg-1.webp) center/cover no-repeat;
   height: 100vh;
   color: var(--branco);
 }
@@ -151,7 +151,7 @@ nav {
 /* Divino 2 */
 .divino-2 {
   padding: 100px 0;
-  background: url(/assets/bg/bg-2.webp) center/cover no-repeat;
+  background: url(assets/bg/bg-2.webp) center/cover no-repeat;
   color: var(--preto);
 }
 
@@ -181,7 +181,7 @@ nav {
 /* Divino 3 */
 .divino-3 {
   padding: 200px 0 50px;
-  background: url(/assets/bg/bg-black.webp) center/cover no-repeat;
+  background: url(assets/bg/bg-black.webp) center/cover no-repeat;
   color: var(--branco);
 }
 
